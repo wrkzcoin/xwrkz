@@ -383,11 +383,11 @@
     },
     {
       "name": "xWRKZ on xDai",
-      "address": "0xFc08Bf013C9c0D19eC4F38fdD8198c591A9DfeB1",
+      "address": "0xb180718C7a7d1ebdB5d018540F84a564BF77dE30",
       "symbol": "XWORK",
-      "decimals": 6,
+      "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/wrkzcoin/xwrkz/main/"
+      "logoURI": "https://raw.githubusercontent.com/wrkzcoin/xwrkz/main/wrkz_bw_512.png"
     },
     {
       "name": "XY Oracle on xDai",
