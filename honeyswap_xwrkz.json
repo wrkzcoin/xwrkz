@@ -387,7 +387,7 @@
       "symbol": "XWORK",
       "decimals": 6,
       "chainId": 100,
-      "logoURI": "https://www.wrkz.work/wrkz_bw_512.png"
+      "logoURI": "https://raw.githubusercontent.com/wrkzcoin/xwrkz/main/"
     },
     {
       "name": "XY Oracle on xDai",
